@@ -1,3 +1,8 @@
+body{
+  margin: 0;
+  margin-left: 0;
+  overflow-x: hidden;
+}
 #main {
   display: grid;
   background: rgb(223, 222, 222);
